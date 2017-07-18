@@ -1,5 +1,0 @@
-projectKey=huffman:code
-serverUrl=http://localhost:9000
-dashboardUrl=http://localhost:9000/dashboard/index/huffman:code
-ceTaskId=AVzvkVWUbFVJl8atdjk5
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AVzvkVWUbFVJl8atdjk5
